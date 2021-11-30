@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1604129583630'); /* IE9 */
+  src: url('iconfont.eot?t=1604129583630#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPsAAsAAAAACAQAAAOfAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDZIM0ATYCJAMMCwgABCAFhG0HQBsEBxFVnCPIfhS47cNW6kmTKcrr98pWS6lhz5lBeVU1JtebWcD8HjPPA6wnnAYgCDi7tWnHNipCsSR6+S7/D3nY4UJY5+t0laqQrXD9n8vprabQ/G3LacxFe+lhgHHPe4GNMTmQAy6xQLRBdxGToi5eBwJAhiP8QdIz88shwAHmEQCkv6erBaLiBh9oJhAgkDq2ckJmQANBJ9IrAKbz75PPCCUCoNAwgKXFnRntSH6Hd1FMURXUUwSa7YIAgl0AA+APgAOksTNcDSZz/mCQMzMfrpbAQUC3SqoqXJ1bpYv+8ShAJACzvk3zzlPgHbAcCPAuyg1q42y2BEAAWArgpkUz/00ObmISyPX1XMzaJu/duFRZsmHPpH2blumWb97fUjuuafLahQvMy5cckA0rjCZD2eBpOGlT+wrLynuV8qR1ixYR3WYP7XDAwmYuet1hYLBioOvcPdfV97PO3nVZcadyzw3l5uTbulv1k+ZZzrPdtkBpO3T3AXPy3SVQyrfcKb/jv8B8zpzRd2TibkrFXXjiXYvTj6t2k3v38rvNAha88nq1MNDbcSHvWOBwjJglLHzZYCd6UeXlQofjGfb/74mY/KcPJjjYGtRJIb7miTtszHf5rwoM+m966/EFRoVns2SLQ81dFlNu+iRbOSZUzqtViNsBS0Adq8vLs7bGYoqSnydERfSr4fLiCpeK5V4r9S73Lv191Cr2zfFMj+n2yEBhUuBgVfVQwLjBgOrqgMGkQvf08MKJfrkBhc9/Ta0OY3bNCJ0/n44gXRvZ6p7inembF1S4bPoirU/un4COtN+GZgDqL3Uj+8rSAfUYi2Qpv/Q+WHsVdzcZxX8TWjoHADw+HW5z1XR2vBA3HCHwAwfF1V/wUAdcrFQ5YG1qHky5lTMUIMM4oDpxU7/lVou8ESAECw3UKA7ACO4op/mDhlY4SIQkkPmJd2uZYVskPQC+XhYQxt5AGToOjLEPymlf0LD0B4nxtiCrnNmRWp4rLmmMSjAFvUCRUGuQTy6i+YrZUCs2dZzzRO6LJLiWUy/G2CJvsaIfM0/EgGFqILJuw7om6JhKTMTKRTrftk3Xm6yEmtVFGoYUgVJAW4BCgrQM7S0ujc9focygpvAAaab4hFivGB64LM4ENDa3k0ivMro3yniEMO4sg5EGiOwgqmGOgK57UgklhCVfkOn4bKebmWq2jrc2z7cPQAaOZqOEEQ790zANSY4VtdmxvSDZCYvVCgA=') format('woff2'),
+  url('iconfont.woff?t=1604129583630') format('woff'),
+  url('iconfont.ttf?t=1604129583630') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1604129583630#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gouwuchekong:before {
+  content: "\e600";
+}
+
+.icon-dingwei:before {
+  content: "\e637";
+}
+

@@ -1,0 +1,16 @@
+{
+  "id": "2145312",
+  "name": "atguigu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17498907",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}
